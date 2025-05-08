@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'disc_server.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'disc_math_labs',
+        'NAME': 'disc_math',
         'USER': 'Kezy',
         'PASSWORD': 'admin',
         'HOST': '127.0.0.1',
